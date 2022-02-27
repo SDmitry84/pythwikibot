@@ -1,2 +1,1 @@
-# pythwikibot
-A rather unsophisticated ru wikibot
+#Will need to add the token from Botfather to line3
